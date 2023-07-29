@@ -1,5 +1,7 @@
 # coscup-streaming-script
 
+COSCUP 製播組可能用得到的腳本
+
 ## `sessions.json`
 
 ```
